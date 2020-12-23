@@ -1,3 +1,4 @@
+# 此仓库已归档，后续更新将在 [FFans/lang-simplified-chinese](https://github.com/FFans/lang-simplified-chinese) 进行。
 ## Flarum 简体中文语言包 / Simplified Chinese Language Pack
 本语言包基于 [flarum/lang-english](https://github.com/flarum/lang-english)、[FlarumCN 2015](https://discuss.flarum.org/d/612) 和 [Csineneo 包](https://github.com/Csineneo/lang-simplified-chinese)。
 
@@ -13,20 +14,9 @@ The overall language style is more delicate and natural, which conforms to the t
   - Flarum v0.1.0-beta.8 及以上版本
 
 ### 安装 / Installation
-**_Beta 13 及以下版本_**
 ```
 composer require littlegolden/flarum-lang-simplified-chinese
 php flarum cache:clear
-```
-**_Beta 14 及以上版本_**
-```
-composer require littlegolden/flarum-lang-simplified-chinese:^v0.1.70
-php flarum cache:clear
-```
-
-### 升级 / Update
-```
-composer update littlegolden/flarum-lang-simplified-chinese
 ```
 
 ### 卸载 / Remove
