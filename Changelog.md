@@ -1,19 +1,3 @@
-# 2020-12-22
-# 🌟 v0.1.70-beta.15.1
-
-核心调整
-1. Dayjs 日期库支持（Moment.js 自 beta.15 弃用）
-2. 后台导航栏：「求助」更改为「帮助」
-3. 后台：常规选项名变更「显示选择语言菜单」→「显示语言选择器」
-4. 后台：测试邮件发送描述。
-5. 昵称：更改个人昵称权限名。
-
-其他调整
-1. [FoF Frontpage](https://discuss.flarum.org/d/19256) 头版头条变更为精华。
-2. [FoF Spamblock](https://discuss.flarum.org/d/17772) 标记破坏者 → 标记垃圾用户。
-
-全部变化：[v0.1.70-beta.15...v0.1.70-beta.15.1](https://github.com/Littlegolden/flarum-lang-simplified-chinese/compare/v0.1.70-beta.15...v0.1.70-beta.15.1)
-
 # 2020-12-21
 # 🌟 v0.1.70-beta.15
 
@@ -38,8 +22,22 @@
 13. [Flarum Nicknames](https://github.com/flarum/nicknames) 昵称：新增外显名称设置，管理员可以选择将用户名、昵称设为外显名称。
 14. [Kilowhat Formulaire](https://discuss.flarum.org/d/23063) 表单生成器💰：新增数据导出、新增创建/更新/删除日期显示。
 
-变更
-1. 默认排序字段「热门回复」改为「热门主题」
+核心调整
+1. Dayjs 日期库支持（Moment.js 自 beta.15 弃用）
+2. 后台导航栏：「求助」更改为「帮助」
+3. 后台：常规选项名变更「显示选择语言菜单」→「显示语言选择器」
+4. 后台：测试邮件发送描述。
+5. 昵称：更改个人昵称权限名。
+6. 默认排序字段「热门回复」改为「热门主题」
+
+其他调整
+1. [FoF Frontpage](https://discuss.flarum.org/d/19256) 头版头条变更为精华。
+2. [FoF Spamblock](https://discuss.flarum.org/d/17772) 标记破坏者 → 标记垃圾用户。
+3. 使用 iflarum 短链接替换新浪短链接
+
+错字更正
+1. 后台「外观」打成了「常规」
+2. 表情选择器「Flarum」打成了「FLarum」
 
 # 2020-11-23
 # 🌟 v0.1.70-beta.14.1.2
